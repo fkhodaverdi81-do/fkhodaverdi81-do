@@ -1,4 +1,4 @@
-C:\Users\ahmad ali\Desktop
+C:\Users\ahmad ali\Desktop\ChatGPT Image Oct 3, 2026, 08_42_57 PM (1)
 
 👋 HI!
 
