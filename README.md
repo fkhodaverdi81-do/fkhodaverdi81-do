@@ -1,4 +1,4 @@
-[cover](\Users\ahmad ali\Downloads\saleh.jpg.png)
+[cover].(C:\Users\ahmad ali\Downloads\saleh.jpg.png)
 
 👋 HI!
 
