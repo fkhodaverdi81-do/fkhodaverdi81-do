@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi👋
 
-<!--
-**fkhodaverdi81-do/fkhodaverdi81-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am saleh
 
-Here are some ideas to get you started:
+I am 11 years old😜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕i like Coffee
+
+🍕i like pizza
+
+🍫i like Chocolate
+
+python
+ 
+
+
+I am python developer💻
+
+I am start python
+
+I am start advanced python
+
+I’ve built some awesome projects—if you want, let’s take a look at them⚡🔍💻
+
+good by✋
