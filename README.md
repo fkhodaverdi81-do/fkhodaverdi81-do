@@ -1,25 +1,25 @@
-Hi👋
+👋 HI!
 
-I am saleh
+😜 I AM SALEH
 
-I am 11 years old😜
+🎂 I AM 11 YEARS OLD
 
-☕i like Coffee
+☕ I LIKE COFFEE
 
-🍕i like pizza
+🍕 I LIKE PIZZA
 
-🍫i like Chocolate
+🍫 I LIKE CHOCOLATE
 
-python
- 
+🐍 PYTHON
 
+💻 I AM A PYTHON DEVELOPER
 
-I am python developer💻
+🚀 I STARTED PYTHON
 
-I am start python
+⚡ I STARTED ADVANCED PYTHON
 
-I am start advanced python
+🔍 I’VE BUILT SOME AWESOME PROJECTS!
 
-I’ve built some awesome projects—if you want, let’s take a look at them⚡🔍💻
+💻⚡ LET’S TAKE A LOOK!
 
-good by✋
+👋 GOOD BYE!
