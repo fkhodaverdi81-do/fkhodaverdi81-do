@@ -1,4 +1,4 @@
-![Saleh Developer](./saleh.jpg)
+![Saleh Developer](./saleh.jpg.png)
 
 👋 HI!
 
