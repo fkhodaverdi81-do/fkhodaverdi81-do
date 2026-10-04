@@ -1,4 +1,4 @@
-https://github.com/USERNAME/REPOSITORY/blob/main/saleh.jpg
+![Saleh Developer](./saleh.jpg)
 
 👋 HI!
 
