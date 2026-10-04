@@ -1,4 +1,4 @@
-[![cover].(C:\Users\ahmad ali\Downloads\saleh.jpg.png)](https://github.com/USERNAME/REPOSITORY/blob/main/saleh.jpg)
+https://github.com/USERNAME/REPOSITORY/blob/main/saleh.jpg
 
 👋 HI!
 
