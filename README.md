@@ -13,6 +13,19 @@
 🍫 I LIKE CHOCOLATE
 
 🐍 PYTHON
+🐱Github
+💻 VS code
+✨oncoming:
+♨️jave
+🟨js
+🎨photo shop
+🌐Network
+🔐Cybersecuri
+💻c#
+💻c++
+💻c
+⚡Go
+
 
 💻 I AM A PYTHON DEVELOPER
 
