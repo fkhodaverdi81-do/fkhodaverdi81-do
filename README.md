@@ -12,7 +12,7 @@
 
 🍫 I LIKE CHOCOLATE
 
-![picture]()
+![picture](./picture.png)
 
 
 🐍 PYTHON
